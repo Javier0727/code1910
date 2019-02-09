@@ -1,6 +1,3 @@
-body{
-    background-color: black;
-}
 .portada{
     background-image: url("../media/top.gif");
     background-repeat: no-repeat;
@@ -8,5 +5,11 @@ body{
     background-size: contain;
     background-color: black;
     height: 100vh;
-    /* width: 70vw; */
+    /* width: auto; */
+}
+.num{
+    color: white;
+}
+.otro{
+    background-color: brown;
 }
