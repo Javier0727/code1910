@@ -13,3 +13,12 @@
 .otro{
     background-color: brown;
 }
+a{
+    color: white;
+}
+a:hover{
+    color: white;
+}
+.posicionn{
+    padding-top: 85vh;
+}
