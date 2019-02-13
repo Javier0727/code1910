@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { JumbotronComponent } from './jumbotron/jumbotron.component';
 import { ContenidoComponent } from './contenido/contenido.component';
 import { FooterComponent } from './footer/footer.component';
+import { CabeceraComponent } from './cabecera/cabecera.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     JumbotronComponent,
     ContenidoComponent,
-    FooterComponent
+    FooterComponent,
+    CabeceraComponent
   ],
   imports: [
     BrowserModule,
