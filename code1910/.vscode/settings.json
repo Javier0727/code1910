@@ -1,3 +1,4 @@
 {
-    "appService.deploySubpath": "dist"
+    "appService.deploySubpath": "dist\\code1910",
+    "appService.defaultWebAppToDeploy": "/subscriptions/256028cb-8282-47c3-8ff9-5ae05b177512/resourceGroups/code1910/providers/Microsoft.Web/sites/code1910"
 }
