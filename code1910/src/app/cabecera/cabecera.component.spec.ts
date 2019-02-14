@@ -1,6 +1,7 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { CabeceraComponent } from './cabecera.component';
+import { JumbotronComponent } from '../jumbotron/jumbotron.component';
 
 describe('CabeceraComponent', () => {
   let component: CabeceraComponent;
