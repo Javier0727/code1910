@@ -5,4 +5,5 @@
     background-position: center center;
     background-size: contain;
     background-color: black;
+    background-attachment: fixed;
 }
