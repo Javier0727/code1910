@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { $ } from 'protractor';
 
 @Component({
   selector: 'app-cabecera',
@@ -6,10 +7,13 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./cabecera.component.css']
 })
 export class CabeceraComponent implements OnInit {
-
+ 
   constructor() { }
 
   ngOnInit() {
   }
+noshow(){
+  document.getElementById("navbarSupportedContent").classList.remove("show");
 
+}
 }
