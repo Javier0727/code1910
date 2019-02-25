@@ -13,6 +13,13 @@ import { ValoresComponent } from './valores/valores.component';
 import { Coleccion1Component } from './coleccion1/coleccion1.component';
 import { Coleccion2Component } from './coleccion2/coleccion2.component';
 import { Coleccion3Component } from './coleccion3/coleccion3.component';
+import { Coleccion4Component } from './coleccion4/coleccion4.component';
+import { Coleccion5Component } from './coleccion5/coleccion5.component';
+import { Coleccion6Component } from './coleccion6/coleccion6.component';
+import { Coleccion7Component } from './coleccion7/coleccion7.component';
+import { Coleccion8Component } from './coleccion8/coleccion8.component';
+import { Coleccion9Component } from './coleccion9/coleccion9.component';
+import { Coleccion10Component } from './coleccion10/coleccion10.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +33,14 @@ import { Coleccion3Component } from './coleccion3/coleccion3.component';
     ValoresComponent,
     Coleccion1Component,
     Coleccion2Component,
-    Coleccion3Component
+    Coleccion3Component,
+    Coleccion4Component,
+    Coleccion5Component,
+    Coleccion6Component,
+    Coleccion7Component,
+    Coleccion8Component,
+    Coleccion9Component,
+    Coleccion10Component
   ],
   imports: [
     BrowserModule,
