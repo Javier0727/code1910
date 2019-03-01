@@ -1,0 +1,9 @@
+.cabecera{
+    height: 100vh;
+    background-image: url("../../assets/coleccion4.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    /* background-color: black; */
+    background-attachment: fixed;
+}
