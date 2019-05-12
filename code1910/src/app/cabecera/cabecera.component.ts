@@ -16,4 +16,7 @@ noshow(){
   document.getElementById("navbarSupportedContent").classList.remove("show");
 
 }
+scrollTop(){
+  document.documentElement.scrollTop = 0;
+}
 }

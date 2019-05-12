@@ -11,5 +11,8 @@ export class ContenidoComponent implements OnInit {
 
   ngOnInit() {
   }
-
+  scrollTop(){
+    document.documentElement.scrollTop = 0;
+  }
+  
 }
